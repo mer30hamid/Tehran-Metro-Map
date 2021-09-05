@@ -12,3 +12,5 @@ Even if the application only uses client side javascript, you still need to run 
 > python -m http.server
 Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 ```
+
+![image](https://user-images.githubusercontent.com/1561497/132138356-acc8f064-c129-4cd9-9208-b4c45a617cbc.png)
