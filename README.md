@@ -2,7 +2,7 @@
 Tehran Metro Map using [d3-tube-map](https://github.com/johnwalley/d3-tube-map) based on [official map](https://metro.tehran.ir/)
 
 ### Demo
-visit ... for demo
+visit https://mer30hamid.github.io/Tehran-Metro-Map/ for demo
 
 ### Run local
 Even if the application only uses client side javascript, you still need to run a small web server to prevent *CORS* errors, because of loading *json* files from the local filesystem. A simple option would be Python's `SimpleHTTPServer` (or `http.server`, depending on the version of Python installed.). More about it [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
